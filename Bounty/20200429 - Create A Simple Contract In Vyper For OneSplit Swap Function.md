@@ -1,8 +1,12 @@
 
 ### Brief
+
 项目名称：gonchs
+
 截止日期：5月13日
+
 奖励金额：$20
+
 申请链接：https://gitcoin.co/issue/gonchs/gsapps/3/4259
 
 ---
