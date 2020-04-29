@@ -3,6 +3,8 @@
 
 项目名称：gonchs
 
+赏金要求：Create A Simple Contract In Vyper For OneSplit Swap Function
+
 截止日期：5月13日
 
 奖励金额：$20
