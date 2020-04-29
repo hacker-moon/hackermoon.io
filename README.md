@@ -48,7 +48,6 @@ Grant一般是指主网的项目方为了增强自己生态的完整度（钱太
 | 项目方 | 时间 | 奖励 |活动说明 |
 | -------- | -------- | -------- |-------- |
 | Algorand基金会     | 长期     | 最高25枚Algo    |[已翻译](https://hackmd.io/@hackermoon/ryIWqehN8)     |
-| Gitcoin可持续发展奖金    | 3月16日下一轮    | 最高20万美金    |[未翻译](https://gitcoin.co/grants/?type=media)|
 | LatticeX基金会    | 第1轮    | 最高2000万美金    |[已翻译](https://www.chainnews.com/articles/830516018474.htm)|
 | RSK    | 长期    | 最高20万美金+导师    |[已翻译](https://www.chainnews.com/articles/356562427627.htm)|
 | 比原链    | 长期    | 最高10万美金    |[已翻译](https://www.chainnews.com/articles/788145954147.htm)|
@@ -63,8 +62,6 @@ Feature-Bounty是指项目方需要更多的外界力量来完善自己的产品
 | 项目方 | 时间 | 奖励 |活动说明 |
 | -------- | -------- | -------- |-------- |
 | Ontology    | 长期     | 最高8000USDT   |[已翻译](https://www.chainnews.com/articles/323629295238.htm)     |
-| Nebulas    | 3月7日截止    | 278.9 NAS   |[已翻译](https://www.chainnews.com/articles/241745351795.htm)     |
-| Townsquare   | 4月6日截止    | 45.54美金   |[已翻译](https://hackmd.io/@hackermoon/HkJDdpREI)     |
 | Conflux   | 长期    | 最高 20000 FC   |[详情](https://bounty.conflux-chain.org/view-bounty?bountyId=5ea0053ff4ceb7125c6518f2&language=zh-CN&from=timeline&isappinstalled=0)     |
 
 
@@ -74,7 +71,7 @@ Feature-Bounty是指项目方需要更多的外界力量来完善自己的产品
 
 | 项目方 | 时间 | 奖励 |活动说明 |
 | -------- | -------- | -------- |-------- |
-| CeloCamp    | 4月10日截止     | 冠军1万美金+洛杉矶机票   |远程线上，[已翻译](https://www.chainnews.com/articles/539972498831.htm)     |
+
 
 
 ### 🧑‍💻Hackathon黑客松&竞赛
@@ -82,8 +79,6 @@ Hackathon是一种程序员的宗教活动：在该活动中，很多程序员�
 
 | 项目方 | 时间 | 奖励 |活动说明 |
 | -------- | -------- | -------- |-------- |
-| Gitcoin Skynet黑客松  | 3月14日截止     | 最高2700美金   |[已翻译](https://hackmd.io/@hackermoon/BJtZwqhVI)     |
-| Celo可持续发展目标挑战   |3月31日截止     | 最高1万美金   |[已翻译](https://www.chainnews.com/articles/446470639958.htm)     |
 | SERO第一届区块链全球开发者大赛  |5月4日报名截止     | 最高5万SERO   | [立即报名](https://contest.sero.cash/)   |
 | 美国商品期货交易委员会（CFTC）「街灯」开发竞赛  | 9月4日报名截止  | 无现金奖励，可获得年度称号和总部演讲机会  | [立即报名](https://www.challenge.gov/challenge/project-streetlamp/)   |
 
@@ -105,19 +100,17 @@ Hackathon是一种程序员的宗教活动：在该活动中，很多程序员�
 
 | 项目方 | 时间 | 奖励 |活动说明 |
 | -------- | -------- | -------- |-------- |
-| Transmute Coin    | 3月17日截止    | 最高178美金   |[已翻译](https://www.chainnews.com/articles/859340791299.htm)  |
+| Loading... | | | |
 
 ### 😂免费&打折
 * [JetBrains 免费一年全家桶](jetbrains.com/shop/eform/opensource)
 > 申请门槛：在Github有维护超过3个月的项目
-
 
 ### 💣Bug赏金计划
 一般属于对自己主网非常有信心或没信心的活动。有信心的项目方会通过bug悬赏来证明自己没有bug，没信心的项目方用悬赏可以让研发成本降低。总之，多方都有利—但是经验而谈，找bug没那么容易！
 
 | 项目方 | 时间 | 奖励 |活动说明 |
 | -------- | -------- | -------- |-------- |
-| Cybersemics    | 4月18日截止    | 289.34美金   |[已翻译](https://hackmd.io/@hackermoon/B1rqq6CVL)|
 | Nervos    | 长期   | 最高2万5美金   |[已翻译](https://hackmd.io/@hackermoon/Hkv-3ghV8L)|
 | Augur    | 长期    | 最高2万5美金  |[已翻译](https://hackmd.io/@hackermoon/Hyfrnz3EU)|
 | Conflux   | 长期    | 最高12000FC   |[已翻译](bounty.conflux-chain.org)|
