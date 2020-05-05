@@ -59,8 +59,12 @@ Grant一般是指主网的项目方为了增强自己生态的完整度（钱太
 ### 💰Feature赏金计划
 Feature-Bounty是指项目方需要更多的外界力量来完善自己的产品，虽然这类项目部分与Grant重叠，但普遍属于增加、完善功能或需求更小的独立产品。金额一般大于Bug赏金，但少于Grant赏金。
 
-| 项目方 | 时间 | 奖励 |活动说明 |
+| 发起者 | 时间 | 奖励 | 详情 |
 | -------- | -------- | -------- |-------- |
+| Web3 Foundation | 长期 | $400 | [详情](https://github.com/hacker-moon/hackermoon.io/blob/master/Bounty/%E9%95%BF%E6%9C%9F%20-%20%E5%9C%A8%E9%A3%9E%E5%9C%B0%E8%BF%9B%E8%A1%8C%E9%AA%8C%E8%AF%81%E7%9A%84IPFS%20API.md) |
+| Web3 Foundation | 长期 | $490 | [详情](https://github.com/hacker-moon/hackermoon.io/blob/master/Bounty/%E9%95%BF%E6%9C%9F%20-%20Await%20InBlock%20Or%20Broadcast%20Status%20When%20Sending%20Extrinsic.md) |
+| rpavlovs | 5月29日 | $5 | [详情](https://github.com/hacker-moon/hackermoon.io/blob/master/Bounty/20200529%20-%20%5BIOS%5D%20Error%20In%20Pod%20Update%20(Installation).md)|
+| gonchs  | 5月13日截止 | $20 | [详情](https://github.com/hacker-moon/hackermoon.io/blob/master/Bounty/20200513%20-%20Create%20A%20Simple%20Contract%20In%20Vyper%20For%20OneSplit%20Swap%20Function.md) | 
 | Ontology    | 长期     | 最高8000USDT   |[已翻译](https://www.chainnews.com/articles/323629295238.htm)     |
 | Conflux   | 长期    | 最高 20000 FC   |[详情](https://bounty.conflux-chain.org/view-bounty?bountyId=5ea0053ff4ceb7125c6518f2&language=zh-CN&from=timeline&isappinstalled=0)     |
 
@@ -77,8 +81,10 @@ Feature-Bounty是指项目方需要更多的外界力量来完善自己的产品
 ### 🧑‍💻Hackathon黑客松&竞赛
 Hackathon是一种程序员的宗教活动：在该活动中，很多程序员相聚在一起，以合作的形式去进行没什么实际意义的电脑编程。时长一般取决于红牛数量（days-weeks），良心点的项目方不会对Hackathon做内幕交易。我们无法分辨，所以会全部推荐！
 
-| 项目方 | 时间 | 奖励 |活动说明 |
+| 主题 | 时间 | 奖励 |活动说明 |
 | -------- | -------- | -------- |-------- |
+| 纽约区块链周黑客松 | 5月6日-5月27日 | 未知 | [立即报名](https://gitcoin.co/hackathon/new-york-blockchain-week/onboard) |
+| AVA Hackathon | 即日起 - 2020年5月31日 | 最高 35,000 美金| [立即报名](https://www.avalabs.org/ava-x/hackathons/university-hackathon-may-2020) |
 | SERO第一届区块链全球开发者大赛  |5月4日报名截止     | 最高5万SERO   | [立即报名](https://contest.sero.cash/)   |
 | 美国商品期货交易委员会（CFTC）「街灯」开发竞赛  | 9月4日报名截止  | 无现金奖励，可获得年度称号和总部演讲机会  | [立即报名](https://www.challenge.gov/challenge/project-streetlamp/)   |
 
