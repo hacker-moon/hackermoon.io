@@ -4,7 +4,7 @@
 一个致力于Web3信息整合的开发者福利社区。
 为了找靠谱的Grant，我们会为你看遍[CMC](https://coinmarketcap.com/)前100项目；也可以为了找开发者优惠，在一个论坛挖坟几十页。
 当然，也欢迎你[加入我们](#微信群)，贡献你的小道消息。
-如果是媒体朋友或项目方朋友想要在这里公示活动信息，可以直接[添加](#微信群)**Mr.Moon**表达意愿。
+如果是媒体朋友或项目方朋友贡献活动信息，也可[添加](#微信群)**Mr.Moon**.
 
 祝大家看的开心 :)
 
@@ -12,7 +12,7 @@
 ---
 
 
-## 🐑 福利
+## 🐑 福利 
 
 ### 🏔 峰会
 区块链相关线上/线下峰会。
@@ -87,6 +87,28 @@ Grant一般是指主网的项目方为了增强自己生态的完整度（钱太
 
 ---
 
+### 📖 教程
+#### Web3
+- [如何使用Matataki 加密语法](https://simplednscrypt.org/)
+- [分布式数据库 HBase 快速入门](https://edu.aliyun.com/course/1892)
+
+#### Web2
+- [【CSDN】终于有人把域名和DNS服务器给写明白了](https://blog.csdn.net/qq_17623363/article/details/106037921)
+- [开源可视化搭建平台-码良新功能桌面端页面制作](https://my.oschina.net/u/137671/blog/4256481)
+
+### 🔬 小工具
+- [以太坊区块链DevKit](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain)
+- [Go-sward:基于Go语言的可视化Web管理后台生成工具](https://go-sword-doc.osinger.com/)
+- [Golang 图形化框架推荐](https://gioui.org/)
+- [一款适合于快速开发业务的 Go 框架](https://github.com/1024casts/snake)
+- [有趣的实时在线交互聊天工具](http://chat.osinger.com/)
+- [Attack Surface Analyzer:攻击来源分析小工具](
+https://github.com/Microsoft/AttackSurfaceAnalyzer)
+- [Win10上的dns污染解决工具](https://simplednscrypt.org/)
+- [图雀Tuture：一款基于 Git 版本控制系统、为实战技术教程创作而生的写作工具](https://github.com/tuture-dev/tuture)
+
+---
+
 #### 微信群
 
 `入群需通过开发者测验`
@@ -97,9 +119,8 @@ Grant一般是指主网的项目方为了增强自己生态的完整度（钱太
 `群内找Mr.Moon报名即可`
 
 #### 主要信源
-- [Gitcoin]()
-- [Bounty0x]()
-- [V2EX]()
-- [CSDN]()
-- [阿里云技术社区]()
+- [Gitcoin](https://gitcoin.co/explorer?network=mainnet&idx_status=open&applicants=ALL&order_by=-web3_created)
+- [V2EX](https://www.v2ex.com/)
+- [CSDN](https://me.csdn.net/Blockchain_lemon)
+- [阿里云技术社区](https://developer.aliyun.com/search?q=%E5%8C%BA%E5%9D%97%E9%93%BE)
 - [TechEvents](https://www.techevents.online/)
