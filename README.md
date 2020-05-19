@@ -25,7 +25,7 @@
 - [蚂蚁区块链 - 4-6月 - 联盟链燃料费，优惠券](https://tech.antfin.com/promotions/openchain/?chInofo=8btc)
 - [JetBrains 免费一年全家桶](jetbrains.com/shop/eform/opensource)
     > 申请门槛：在Github有维护超过3个月的项目
-
+- [Gear 浏览器 v2.0 pro 免费使用一年](https://www.v2ex.com/t/671444#reply31)
 
 ### 💰Feature Bounty
 Feature-Bounty是指项目方需要更多的外界力量来完善自己的产品，虽然这类项目部分与Grant重叠，但普遍属于增加、完善功能或需求更小的独立产品。金额一般大于Bug赏金，但少于Grant赏金。
@@ -87,10 +87,11 @@ Grant一般是指主网的项目方为了增强自己生态的完整度（钱太
 
 ---
 
-### 📖 教程
+### 📖 学习
 #### Web3
 - [如何使用Matataki 加密语法](https://simplednscrypt.org/)
 - [分布式数据库 HBase 快速入门](https://edu.aliyun.com/course/1892)
+- [Go语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 
 #### Web2
 - [【CSDN】终于有人把域名和DNS服务器给写明白了](https://blog.csdn.net/qq_17623363/article/details/106037921)
@@ -106,6 +107,7 @@ Grant一般是指主网的项目方为了增强自己生态的完整度（钱太
 https://github.com/Microsoft/AttackSurfaceAnalyzer)
 - [Win10上的dns污染解决工具](https://simplednscrypt.org/)
 - [图雀Tuture：一款基于 Git 版本控制系统、为实战技术教程创作而生的写作工具](https://github.com/tuture-dev/tuture)
+- [动森二维码生成器 for Aseprite](https://github.com/mutoo/aseprite-animalcrossing-qrcode-gen/)
 
 ---
 
