@@ -29,6 +29,9 @@
 
 ### 💰Feature Bounty
 Feature-Bounty是指项目方需要更多的外界力量来完善自己的产品，虽然这类项目部分与Grant重叠，但普遍属于增加、完善功能或需求更小的独立产品。金额一般大于Bug赏金，但少于Grant赏金。
+- [Data Bounty Platform Using Ocean Protocol](https://gitcoin.co/issue/oceanprotocol/ocean-bounties/24/4379) - 截止日期：6月30日 - 奖励：40,000 OCEAN ($2700)
+- [Build A Crowdsourcing Portal For Art For New Wildcards](https://gitcoin.co/issue/wildcards-world/ui/93/4375) - 截止日期：长期 - 奖励：500 DAI ($500)
+- [OrFeed Truffle Box / Ganache Testing (A Better Strategy And Implementation)](https://gitcoin.co/issue/ProofSuite/OrFeed/72/4371) - 截止日期：6月20日 - 奖励：0.6 ETH ($126.09)
 - [Bounty: MetaMask Snap Plugin For IPFS - 6月16日截止 - $100 USD](https://gitcoin.co/issue/ipfs/devgrants/35/4362)
 - [Use Sign-In With Idena Function - 6月17日截止 - $4,000 DNAs](https://gitcoin.co/issue/idena-network/idena-go/431/4364)
 - [Web3 Foundation - 长期 - $400](https://github.com/hacker-moon/hackermoon.io/blob/master/Bounty/%E9%95%BF%E6%9C%9F%20-%20%E5%9C%A8%E9%A3%9E%E5%9C%B0%E8%BF%9B%E8%A1%8C%E9%AA%8C%E8%AF%81%E7%9A%84IPFS%20API.md)
@@ -108,7 +111,8 @@ https://github.com/Microsoft/AttackSurfaceAnalyzer)
 - [Win10上的dns污染解决工具](https://simplednscrypt.org/)
 - [图雀Tuture：一款基于 Git 版本控制系统、为实战技术教程创作而生的写作工具](https://github.com/tuture-dev/tuture)
 - [动森二维码生成器 for Aseprite](https://github.com/mutoo/aseprite-animalcrossing-qrcode-gen/)
-
+- [好用的UI框架](https://www.v2ex.com/t/674859#reply20)
+- [Java开发常用工具]（https://www.v2ex.com/t/674946#reply1）
 ---
 
 #### 微信群
