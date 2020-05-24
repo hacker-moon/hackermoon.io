@@ -112,7 +112,7 @@ https://github.com/Microsoft/AttackSurfaceAnalyzer)
 - [图雀Tuture：一款基于 Git 版本控制系统、为实战技术教程创作而生的写作工具](https://github.com/tuture-dev/tuture)
 - [动森二维码生成器 for Aseprite](https://github.com/mutoo/aseprite-animalcrossing-qrcode-gen/)
 - [好用的UI框架](https://www.v2ex.com/t/674859#reply20)
-- [Java开发常用工具]（https://www.v2ex.com/t/674946#reply1）
+- [Java开发常用工具](https://www.v2ex.com/t/674946#reply1)
 ---
 
 #### 微信群
