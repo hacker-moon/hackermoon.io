@@ -128,7 +128,8 @@ https://github.com/Microsoft/AttackSurfaceAnalyzer)
 
 `入群需通过开发者测验`
 
-![](https://imgkr.cn-bj.ufileos.com/71a4eba1-d8f7-4661-a4fb-4ed0d022ddbb.jpg)
+![](https://imgkr.cn-bj.ufileos.com/8ef75815-306a-4f6d-82d9-f9df520d66d8.jpg)
+
 
 #### Web3 Hackers互粉 🌟
 `群内找Mr.Moon报名即可`
