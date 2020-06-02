@@ -91,10 +91,16 @@ Grant一般是指主网的项目方为了增强自己生态的完整度（钱太
 ---
 
 ### 📖 学习
+#### 资源
+- [Web3 Foundation 官方 MOOC](https://mooc.web3.foundation/courses/) - 英文 - 免费
+- [Parity 官方教程](https://space.bilibili.com/67358318?from=search&seid=4202933259398482347) - 中文 - 免费
+- [区块链毕设资源网](https://interchains.cc/)
+
 #### Web3
 - [如何使用Matataki 加密语法](https://simplednscrypt.org/)
 - [分布式数据库 HBase 快速入门](https://edu.aliyun.com/course/1892)
 - [Go语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+- [密码学原语如何应用？解析单向哈希的妙用](https://www.liankexing.com/notetwo/29413)
 
 #### Web2
 - [【CSDN】终于有人把域名和DNS服务器给写明白了](https://blog.csdn.net/qq_17623363/article/details/106037921)
@@ -113,6 +119,9 @@ https://github.com/Microsoft/AttackSurfaceAnalyzer)
 - [动森二维码生成器 for Aseprite](https://github.com/mutoo/aseprite-animalcrossing-qrcode-gen/)
 - [好用的UI框架](https://www.v2ex.com/t/674859#reply20)
 - [Java开发常用工具](https://www.v2ex.com/t/674946#reply1)
+- [iPhone自定义推送小工具：稳定、及时、安全](https://www.v2ex.com/t/677782#reply23)
+
+
 ---
 
 #### 微信群
