@@ -17,7 +17,8 @@
 ### 🏔 峰会
 区块链相关线上/线下峰会。
 
-`loading...................`
+- [ArcBlock DevCon 开发者大会](https://devcon.arcblock.io/zh/) - 6月20日~21日 - 免费
+- [World Blockchain Summit 世界区块链峰会](https://worldblockchainsummit.com/) - 全球巡回 - 免费
 
 
 ### ⏱️ 优惠&免费资源
