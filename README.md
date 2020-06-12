@@ -109,6 +109,7 @@ Grant一般是指主网的项目方为了增强自己生态的完整度（钱太
 - [开源可视化搭建平台-码良新功能桌面端页面制作](https://my.oschina.net/u/137671/blog/4256481)
 - [函数式编程语言 Hamler](https://www.hamler-lang.org/)
 - [LeetCode 前 300 题详解](https://leetcode.wang/)
+- [VS Code 1.46 发布](https://mp.weixin.qq.com/s/IVhwVPXRfhULsm-D5pCSAg)
 
 ### 🔬 小工具
 - [以太坊区块链DevKit](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain)
