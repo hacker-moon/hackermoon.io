@@ -51,6 +51,7 @@ Hackathon是一种程序员的宗教活动：在该活动中，很多程序员�
 当区块链主网、测试网上线后，项目方一般会需要鼓励开发者充分的参与测试，比如参与节点部署、质押等行为，因此都会预留小部分比例生态奖励作为测试网活动。因部署区块链节点标准化可能性较高，因此此类活动性价比较高。
 
 - [PlatON环银河拉力赛 - 长期 - 平分500万LAT](https://hackmd.io/@hackermoon/B137Ox348)   
+- [Filecoin测试网奖励计划 - 7月~？](https://mp.weixin.qq.com/s/WiKE0o0hWGw4INP-4dpSjA)
 
 
 ### 💣Bug Bounty
@@ -106,6 +107,8 @@ Grant一般是指主网的项目方为了增强自己生态的完整度（钱太
 #### Web2
 - [【CSDN】终于有人把域名和DNS服务器给写明白了](https://blog.csdn.net/qq_17623363/article/details/106037921)
 - [开源可视化搭建平台-码良新功能桌面端页面制作](https://my.oschina.net/u/137671/blog/4256481)
+- [函数式编程语言 Hamler](https://www.hamler-lang.org/)
+- [LeetCode 前 300 题详解](https://leetcode.wang/)
 
 ### 🔬 小工具
 - [以太坊区块链DevKit](https://marketplace.visualstudio.com/items?itemName=AzBlockchain.azure-blockchain)
